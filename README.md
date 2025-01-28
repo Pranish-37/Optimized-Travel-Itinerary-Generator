@@ -42,12 +42,11 @@ This project solves challenges like:
 ## 📊 Statistical Analysis
 1. **High AQI Months for a State**:  
    Bar chart analysis showing the months with the highest AQI levels for a given state, enabling seasonal travel planning.  
-   ![High AQI Months](images/AQI_around_states.png)
 
 2. **State with the Highest AQI**:  
-   Comparative analysis across states to identify the most polluted regions, visualized through interactive bar charts.  
-   ![State AQI Rankings](images/state_aqi_ranking.png)
+   Comparative analysis across states to identify the most polluted regions, visualized through interactive bar charts.
 
+   **You can see samples pictures in images folder.**
 ---
 
 ## 🔧 Methodology
